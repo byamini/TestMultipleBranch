@@ -20,4 +20,10 @@ public class Test1 {
 	public void method3() {
 		System.out.println("from test ");
 	}
+	
+	@Test
+	public void method4() {
+		System.out.println("from test ");
+	}
+	
 }
