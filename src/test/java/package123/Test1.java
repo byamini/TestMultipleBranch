@@ -15,4 +15,9 @@ public class Test1 {
 		System.out.println("from test ");
 	}
 
+	
+	@Test
+	public void method3() {
+		System.out.println("from test ");
+	}
 }
