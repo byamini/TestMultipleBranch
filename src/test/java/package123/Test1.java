@@ -23,7 +23,7 @@ public class Test1 {
 	
 	@Test
 	public void method4() {
-		System.out.println("from test1");
+		System.out.println("from test12");
 	}
 	
 }
