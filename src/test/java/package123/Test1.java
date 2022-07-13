@@ -22,13 +22,10 @@ public class Test1 {
 	}
 	
 	@Test
-	public void method5() {
-		System.out.println("from test ");
+	public void method4() {
+		System.out.println("from test1");
 	}
 	
-	@Test
-	public void method4() {
-		System.out.println("from test12");
-	}
+	//modified test class
 	
 }
