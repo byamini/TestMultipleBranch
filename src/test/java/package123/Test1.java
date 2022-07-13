@@ -26,6 +26,11 @@ public class Test1 {
 		System.out.println("from test1");
 	}
 	
+	
+	@Test
+	public void method5() {
+		System.out.println("from test1");
+	}
 	//modified test class
 	
 }
